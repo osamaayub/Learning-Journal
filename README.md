@@ -1,4 +1,4 @@
-![Screenshot from 2024-11-05 12-17-38](https://github.com/user-attachments/assets/dd7d294f-fe00-42f2-b052-c97d56d2e5ad)# My Learning Journal
+My Learning Journal
 
 A responsive web journal documenting my journey through the Scrimba Frontend Career Path. This project includes:
 - **Home Page** (index.html): A collection of blog-style entries on various learning experiences.
