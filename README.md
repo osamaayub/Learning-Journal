@@ -46,8 +46,7 @@ This project demonstrates skills in HTML, CSS, and responsive web design, creati
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/osamaayub/LearningJournal.git
-         ```bash
+   git clone https://github.com/osamaayub/LearningJournal.git 
 2. Navigate to the project folder
  ```bash
    cd Learning-Journal
