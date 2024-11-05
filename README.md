@@ -1,4 +1,4 @@
-# My Learning Journal
+![Screenshot from 2024-11-05 12-17-38](https://github.com/user-attachments/assets/dd7d294f-fe00-42f2-b052-c97d56d2e5ad)# My Learning Journal
 
 A responsive web journal documenting my journey through the Scrimba Frontend Career Path. This project includes:
 - **Home Page** (index.html): A collection of blog-style entries on various learning experiences.
@@ -7,8 +7,10 @@ A responsive web journal documenting my journey through the Scrimba Frontend Car
 
 Built with HTML, CSS, and responsive web design principles, this project is optimized for viewing across devices.
 
-![Home Page](downloads/Screenshot-from-2024-11-05-12-17-38.png)
-![About Me Page](downloads/Screenshot-from-2024-11-05-12-17-52.png)
+![Home Page](![home](https://github.com/user-attachments/assets/ff02f146-c0f9-467d-9044-c3969c4bad68)
+)
+![About Me Page](![about](https://github.com/user-attachments/assets/4c019116-30c2-47f9-9b6d-b411b9d2f7a8)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
