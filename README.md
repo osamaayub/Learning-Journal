@@ -61,9 +61,8 @@ Responsive Design
 The project employs responsive design techniques to ensure an optimal user experience on various devices. Media queries adjust font sizes, spacing, and layout based on the screen width, maintaining a clean look on mobile, tablet, and desktop screens.
 
 Project Structure
-graphql
-Copy code
-LearningJournal/
+
+Learning-Journal/
 ├── images/
 │   ├── index.html       # Home page with blog entries
 │   ├── post.html        # Page for individual blog posts
@@ -72,6 +71,8 @@ LearningJournal/
 │   ├── post.css         # CSS for Post page styling
 │   └── about.css        # CSS for About Me page styling
 └── README.md            # Project documentation
+
+```
 Contributing
 Contributions to enhance design, functionality, or accessibility are welcome! Follow these steps:
 
